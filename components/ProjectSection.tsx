@@ -23,7 +23,7 @@ const projects = [
     description:
       "(Freelancing Mobile App)",
       language:"Kotlin - Android Studio",
-    image: "/Easyworks.png",
+    image: "/converted_image.jpg",
     link: "https://github.com/KavishkaBingun/MAD_Project",
     technology: " Android Studio , Kotlin , Firebase-Database " , 
 
