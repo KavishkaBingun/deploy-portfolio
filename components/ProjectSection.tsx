@@ -56,6 +56,15 @@ const projects = [
     technology: " HTML , CSS , PHP , JS  " , 
 
   },
+    {
+    name: "My Blog",
+    description:"(Web Application for Create blogs)",
+    language:"MERN Stack",
+    image: "/blog_app.png",
+    link: "https://github.com/KavishkaBingun/My_Blog_Project",
+    technology: " MongoDB , Express.js , React.js , Node.js , RESTful APIs " , 
+
+  },
 ];
 
 
