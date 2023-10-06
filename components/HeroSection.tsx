@@ -73,7 +73,7 @@ const HeroSection = () => {
     </div>
         <br></br><br></br>
           <a
-  href="https://drive.google.com/uc?export=download&id=1GUyvgdva2f4cdW6WUy1r_NcNtR0Xl5i5" // Replace this with the actual URL of your hosted CV file
+  href="https://drive.google.com/file/d/1OZ9tUhS35mcKBHpckge2_QFhodb-UK9C/view?usp=drive_link" // Replace this with the actual URL of your hosted CV file
   className="text-neutral-100 font-semibold px-6 py-3 bg-teal-600 rounded shadow hover:bg-teal-700"
   download="Kavishka Bingun CV.pdf" // Replace "Kavishka Bingun CV.pdf" with the desired name of the downloaded file
 >
